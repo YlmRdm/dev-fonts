@@ -1,9 +1,11 @@
 # dev-fonts
-This repo is made for common fonts that I generally use.
-Huge thanks to @festackcode and the repo is inspired by him.
+This repo is made for common fonts that I generally use. <br />
 
-I added a few some fonts and keep adding.
+Huge thanks to [festackcode](https://github.com/festackcode) and the repo is inspired by him.<br />
 
+I added a few some fonts and keep adding.<br />
+
+Here is [the original repo](https://github.com/festackcode/dev-fonts).<br />
 ## Fonts that I added:
   - Fira Code
   - Helvetica
