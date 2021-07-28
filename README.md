@@ -7,6 +7,7 @@ I added a few some fonts and keep adding.<br />
 
 Here is [the original repo](https://github.com/festackcode/dev-fonts).<br />
 ## Fonts that I added:
+  - Cascadia Code | Mono
   - Fira Code
   - Helvetica
   - Helvetica Neue
@@ -17,7 +18,4 @@ Here is [the original repo](https://github.com/festackcode/dev-fonts).<br />
   - Rubik
   - San Francisco
   - Source Sans Pro
-
-
-## Coming Soon
-  - Cascadia Mono
+  
